@@ -1,1 +1,1 @@
-# javascript-sorting-items
+# Javascript Sorting Items
