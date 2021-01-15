@@ -4,7 +4,7 @@ This is one page project that shows all the items in the JSON file and it sorts 
 
 | How it works | Description |
 | -----: | ----------- |
-|  All items(When you open the page and when you click the logo) | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot1.png?raw=true" width="300" />       |
+|  All items(When you open the page and when you click the logo) | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot1.png?raw=true" width="400" />       |
 |  Cell3 | Cell3       |
 
 
