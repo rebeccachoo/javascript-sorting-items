@@ -22,13 +22,13 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: var(--outer-padding);
+    align-items: center; 
     font-family: Tahoma;
 }
 .reset__btn {
     font-size: var(--logo);
     color: var(--logo-color);
+    cursor: pointer;
 } 
 .fruits {
     width: var(--menu-width);
@@ -81,10 +81,16 @@ button.red {
 .items {
     list-style: none;
     text-align: left;
+    padding-top: var(--inner-padding);
+    background-color: var(--fruits-menu);
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    height: 80vh; 
 }
 .items i{
     font-size: 34px; 
-    padding-bottom: var(--item-padding); 
+    padding-bottom: calc(var(--item-padding) * 2);  
 }
 .items i.blue{
     color: var(--btn-blue);
@@ -94,4 +100,10 @@ button.red {
 }
 .items i.yellow{
     color: var(--btn-yellow);
+} 
+.invisible{
+    display: none;
+}
+.items span{
+    padding-left: var(--inner-padding); 
 } 
