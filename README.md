@@ -5,8 +5,8 @@ This is one page project that shows all the items in the JSON file and it sorts 
 | How it works | Description |
 | -----: | ----------- |
 |  All items(When you open the page and when you click the logo) | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot1.png?raw=true" width="400" />       |
-|  Sorted items(When you click one of picture menus) - It will sort by shape | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot2.png?raw=true" width="400" />       |
-|  Sorted items(When you click one of button menus) - It will sort by color | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot3.png?raw=true" width="400" />       |
+|  Sorted items(When you click one of picture menus) - It will sort by **shape** | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot2.png?raw=true" width="400" />       |
+|  Sorted items(When you click one of button menus) - It will sort by **color** | <img src="https://github.com/rebeccachoo/javascript-sorting-items/blob/main/screenshot3.png?raw=true" width="400" />       |
 
 
 # How to use
