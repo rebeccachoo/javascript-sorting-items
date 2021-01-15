@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "apple", 
+      "size": "large",
+      "color": "blue",
+      "className": "fas fa-apple-alt"
+    },
+    {
+      "type": "pepper", 
+      "size": "small",
+      "color": "red",
+      "className": "fas fa-pepper-hot"
+    },
+    {
+      "type": "lemon", 
+      "size": "large",
+      "color": "yellow",
+      "className": "fas fa-lemon"
+    },
+    {
+      "type": "carrot", 
+      "size": "large",
+      "color": "blue",
+      "className": "fas fa-carrot"
+    },
+    {
+      "type": "apple", 
+      "size": "small",
+      "color": "yellow",
+      "className": "fas fa-apple-alt"
+    },
+    {
+      "type": "lemon", 
+      "size": "large",
+      "color": "red",
+      "className": "fas fa-lemon"
+    },
+    {
+      "type": "pepper", 
+      "size": "small",
+      "color": "yellow",
+      "className": "fas fa-pepper-hot"
+    }
+  ]
+}
