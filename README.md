@@ -10,8 +10,13 @@ This is one page project that shows all the items in the JSON file and it sorts 
 
 
 # How to use
+
 1. Download the files.
 2. Using a text editor, you need to change the font awesome link in index.html.
 > Go to Font Awesome [here](https://fontawesome.com/start)
 3. Open index.html to see how it works.
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate. 
