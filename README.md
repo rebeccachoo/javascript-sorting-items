@@ -1,6 +1,6 @@
 # Javascript Sorting Items
 
-This is one page project that gets all the items from a JSON file and it sorts the items according to the button selections.
+This is one page project that gets all the items from a JSON file and it sorts the items according to the button selections. It will sort the list by shape or color.
 
 | How it works | Description |
 | -----: | ----------- |
